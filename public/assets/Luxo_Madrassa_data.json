@@ -1,0 +1,61 @@
+{
+    "type": "Modal verbs",
+    "verbs": [
+        {
+            "lu": "Däerfen",
+            "en": "To be allowed",
+            "fr": "Être autorisé",
+            "de": "Dürfen",
+            "all": "ech däerf du däerfs Dir däerft hien / hatt / et däerf Si däerf mir däerfen dir däerft si däerfen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"3-Daerfen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/2e5b6940-4e08-41f1-aaab-b9460917183f?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "Goen",
+            "en": "To go",
+            "fr": "Aller",
+            "de": "Gehen",
+            "all": "ech ginn du geess Dir gitt hien / hatt/ et geet Si geet mir ginn dir gitt si ginn",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"4-Goen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/46223e48-4ee9-4a48-8dec-6e78534ae456?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "Kënnen",
+            "en": "To be able to",
+            "fr": "Pouvoir",
+            "de": "Können",
+            "all": "ech kann du kanns Dir kënnt hien / hatt/ et kann Si kann mir kënnen dir kënnt si kënnen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"5-Kennen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/16c25ed1-e01b-4390-9082-2389c9bdffe1?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "Kommen",
+            "en": "To come",
+            "fr": "Venir",
+            "de": "Kommen",
+            "all": "ech kommen du kënns Dir kommt hien / hatt /et kënnt Si kënnt mir kommen dir kommt si kommen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"6 - Kommen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/d940bf93-b683-407b-b7bb-d49c955c26a7?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "Mussen",
+            "en": "To have to",
+            "fr": "Devoir",
+            "de": "Müssen",
+            "all": "ech muss du muss Dir musst hien / hatt /et muss Si muss mir mussen dir musst si mussen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"7 - Mussen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/4a477822-2195-4784-9739-2b9b762669e7?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "Sollen",
+            "en": "Should",
+            "fr": "Devoir (moral)",
+            "de": "Sollen",
+            "all": "ech soll du solls Dir sollt hien / hatt / et soll Si soll mir sollen dir sollt si sollen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"8 - Sollen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/a9175386-1b4c-423c-8574-5eadad24de2c?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        },
+        {
+            "lu": "kennen",
+            "en": "to know",
+            "fr": "Connaître",
+            "de": "Kennen",
+            "all": "ech kennen du kenns Dir kennt hie / hatt kennt Si kennt mir kennen dir kennt si kennen",
+            "videoUrl": "<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"9 - Kennen\" width=\"100%\" height=\"100%\" src=\"https://skilltech.tube/videos/embed/178b3b0d-dffd-4230-bc92-3cac96f97aa8?loop=1&amp;autoplay=1&amp;title=0&amp;warningTitle=0&amp;controlBar=0&amp;peertubeLink=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>"
+        }
+    ]
+}
