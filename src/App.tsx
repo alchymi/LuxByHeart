@@ -20,10 +20,10 @@ interface Category {
 }
 
 const categoryColors: Record<string, string> = {
-  "Auxiliary verbs": "bg-slate-600 hover:bg-green-800",
-  "Modal verbs": "bg-slate-700 hover:bg-green-800",
-  "Irregular verbs": "bg-slate-800 hover:bg-green-800",
-  "Regular verbs": "bg-slate-900 hover:bg-green-800"
+  "Auxiliary verbs": "bg-slate-500 hover:bg-green-800",
+  "Modal verbs": "bg-slate-600 hover:bg-green-800",
+  "Irregular verbs": "bg-slate-700 hover:bg-green-800",
+  "Regular verbs": "bg-slate-800 hover:bg-green-800"
 };
 
 const App: React.FC = () => {
@@ -36,7 +36,7 @@ const App: React.FC = () => {
       try {
         
         const response = await fetch(
-            "https://cors-anywhere.herokuapp.com/https://grist.skilltech.tools/api/docs/bnxws71sTCDzixcjGA6mqw/tables/LesVerbes/records",
+            "https://grist.skilltech.tools/api/docs/bnxws71sTCDzixcjGA6mqw/tables/LesVerbes/records",
             {
               method: "GET",
               headers: {
